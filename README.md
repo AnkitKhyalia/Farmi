@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td valign="top"><img src="ScreenShots/img_6.png" alt="Image 7" style="width: 250px; height: 450px;"></td>
-    <td valign="top"><img src="ScreenShots/img_7.png alt="Image 8" style="width: 250px; height: 450px;"></td>
+    <td valign="top"><img src="ScreenShots/img_7.png" alt="Image 8" style="width: 250px; height: 450px;"></td>
     <td valign="top"><img src="ScreenShots/img_8.png" alt="Image 9" style="width: 250px; height: 450px;"></td>
     
   </tr>
